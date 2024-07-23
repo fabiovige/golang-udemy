@@ -4,6 +4,5 @@ Curso básico sobre golang ensinando os fundamentos da limguagem, estruturas, fu
 
 ## Seção 1: Fundamentos
 
-    Caracteristicas
-    Estrutura de Dados
-    
+- Caracteristicas
+- Estrutura de Dados

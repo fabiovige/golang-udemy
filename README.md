@@ -1,8 +1,8 @@
-# golang - udemy
+# Golang - Udemy
 
-Curso básico sobre golang ensinando os fundamentos da limguagem, estruturas, funções, etc
+Curso básico sobre golang ensinando os fundamentos da linguagem, estruturas, funções, etc
 
 ## Seção 1: Fundamentos
 
-- Caracteristicas
+- Características
 - Estrutura de Dados
